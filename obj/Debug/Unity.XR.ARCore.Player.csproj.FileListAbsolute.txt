@@ -1,0 +1,2 @@
+D:\Desktop\AR Health\obj\Debug\Unity.XR.ARCore.Player.csproj.CoreCompileInputs.cache
+D:\Desktop\AR Health\obj\Debug\Unity.XR.ARCore.Player.csprojAssemblyReference.cache

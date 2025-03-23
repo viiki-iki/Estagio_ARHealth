@@ -1,0 +1,2 @@
+D:\Desktop\AR Health\obj\Debug\UnityEngine.XR.LegacyInputHelpers.Player.csprojAssemblyReference.cache
+D:\Desktop\AR Health\obj\Debug\UnityEngine.XR.LegacyInputHelpers.Player.csproj.CoreCompileInputs.cache
